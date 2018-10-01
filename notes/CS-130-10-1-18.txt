@@ -1,0 +1,8 @@
+Machines
+DFA deterministeic fintite atamata
+NFA non-deterministeic fintite atamata    Reg. exp
+PDA                                       context free lanes
+TM  turning machines
+  - un restiricted ram access
+
+set theory stuff
