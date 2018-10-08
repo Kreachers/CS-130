@@ -6,3 +6,16 @@ TM  turning machines
   - un restiricted ram access
 
 set theory stuff
+empty set
+real numbers
+integer numbers
+all numbers
+rational numbers
+union
+instersection
+subset
+difference
+sysmetric difference
+  - in a but not b and in b but not in a
+  - essentially nand
+union and instersection with empty sets
